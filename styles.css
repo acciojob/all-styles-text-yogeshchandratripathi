@@ -4,7 +4,11 @@
 	background:purple;
 	width:200px;
 	padding:10px;
-	color:white;
 	border-left:5px solid green;
 	
+}
+.heading{
+	font-size:20px;
+	color:white;
+	text-decoration:underline;
 }
