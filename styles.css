@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.main{
+	background:purple;
+	width:200px;
+	padding:10px;
+	color:white;
+	border-left:5px solid green;
+	
+}
